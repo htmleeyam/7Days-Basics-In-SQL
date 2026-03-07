@@ -1,4 +1,4 @@
-#📊 SQL Basics in 7 Days
+# 📊 SQL Basics in 7 Days
 A beginner-friendly guide to learning SQL step by step in just one week. Each day covers key concepts with practical exercises!
 
 ## Day 1: Setup
