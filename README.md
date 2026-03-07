@@ -9,3 +9,6 @@ A beginner-friendly guide to learning SQL step by step in just one week. Each da
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 - [LeetCode SQL Exercises](https://leetcode.com/problemset/database/)
 - [HackerRank SQL Practice](https://www.hackerrank.com/domains/sql)
+
+## 📌 Status
+- Not yet started 🔴
